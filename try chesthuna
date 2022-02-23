@@ -16,10 +16,12 @@ am in the process of gaining more knowledge of my students to better tailor my c
 
 
 
+These files are also referred to as "untracked files." Staging area is files that are going to be a part of the next commit, which lets git know what changes in the file are going to occur for the next commit. The repository contains all of a project's commits.
 
 
 
 
 
-thanks .\\
+thanks 
 Ravi
+thanks 
